@@ -10,6 +10,19 @@ ENCG Settat
 
 ---
 
+## 📚 Sommaire
+
+1. Introduction  
+2. Problématique  
+3. Présentation des algorithmes  
+4. Méthodologie  
+5. Implémentation (Google Colab)  
+6. Résultats et analyse  
+7. Discussion  
+8. Conclusion  
+
+---
+
 ## 📌 Introduction
 
 Dans un contexte marqué par l’explosion des données et l’importance croissante de l’intelligence artificielle, le machine learning supervisé s’impose comme un outil essentiel pour la prise de décision. Ce projet s’inscrit dans une démarche d’analyse et de comparaison de plusieurs algorithmes de classification afin d’identifier le modèle le plus performant selon la nature des données.
@@ -34,18 +47,6 @@ L’objectif est de comprendre comment différents modèles réagissent face à 
 
 ---
 
-## 📚 Sommaire
-
-1. Introduction  
-2. Problématique  
-3. Présentation des algorithmes  
-4. Méthodologie  
-5. Implémentation (Google Colab)  
-6. Résultats et analyse  
-7. Discussion  
-8. Conclusion  
-
----
 
 ## 🤖 Présentation des Algorithmes
 
