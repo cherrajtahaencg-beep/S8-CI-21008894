@@ -131,7 +131,7 @@ Une bonne compréhension des données et un ajustement des paramètres sont esse
 
 ## 📎 Lien du Notebook
 
-👉 *(Ajoute ici ton lien Google Colab)*
+👉 (https://colab.research.google.com/github/cherrajtahaencg-beep/S8-CI-21008894/blob/main/cherraj_taha_ci.ipynb)
 
 ---
 
